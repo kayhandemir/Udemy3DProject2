@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9076830110673120358
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1400697248260072993, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: _max
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400697248260072993, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: _min
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019168194336185818, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: _max
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019168194336185818, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: _min
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326272876372032570, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: _max
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326272876372032570, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: _min
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5466720604630200673, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: _max
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5466720604630200673, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: _min
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7034641697116779974, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_Name
+      value: SpawnersMedium
+      objectReference: {fileID: 0}
+    - target: {fileID: 7707629022885589419, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: _max
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538784193381116369, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f21b2bb8ddff43a4f86ff4e52812c02a, type: 3}
